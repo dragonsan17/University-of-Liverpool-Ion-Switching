@@ -1,0 +1,2 @@
+{'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} (50000 on 2) 99.60
+{'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} 99.618, all

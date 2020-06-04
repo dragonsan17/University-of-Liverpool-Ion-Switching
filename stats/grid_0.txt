@@ -1,0 +1,5 @@
+c 1, gamma 1, rbf = 99.26 (50000 data on 0)
+
+{'C': 1.2, 'gamma': 1, 'kernel': 'rbf'} 99.606 (all on 0)
+
+{'C': 1.2, 'gamma': 1.5, 'kernel': 'rbf'} 99.56 (all on 0)

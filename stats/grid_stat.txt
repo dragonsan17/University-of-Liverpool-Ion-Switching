@@ -1,0 +1,25 @@
+c 1, gamma 1, rbf = 99.26 (50000 data on 0)
+
+{'C': 1.2, 'gamma': 1, 'kernel': 'rbf'} 99.606 (all on 0)
+
+{'C': 1.2, 'gamma': 1.5, 'kernel': 'rbf'} 99.56 (all on 0)
+
+
+{'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} (50000 on 2) 99.60
+{'C': 0.1, 'gamma': 1, 'kernel': 'rbf'} 99.618, all
+
+
+{'C': 0.5, 'gamma': 1, 'kernel': 'rbf'} 98.46 50000, 98.608 all
+
+
+{'C': 5, 'gamma': 0.1, 'kernel': 'rbf'} 0.852 50000, 87.13 all
+
+
+{'C': 5, 'gamma': 0.1, 'kernel': 'rbf'} 97.02 (50000) 97.3 (all)
+
+1.2,1
+0.1,1
+0.5,1
+5,0.1
+5,0.1
+

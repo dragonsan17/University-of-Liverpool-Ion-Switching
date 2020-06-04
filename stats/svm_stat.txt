@@ -1,0 +1,46 @@
+starting  0
+iteration  0
+iteration  1
+iteration  2
+iteration  3
+[0.99973975 0.98736686]
+0.9935533016828002
+appending  0
+0    done
+starting  1
+iteration  0
+iteration  1
+iteration  2
+iteration  3
+[0.99384186 0.99790177]
+0.9958718103856681
+appending  1
+1    done
+starting  2
+iteration  0
+iteration  1
+iteration  2
+iteration  3
+[0.97871345 0.98233195 0.9859086  0.99072629]
+0.984420071806818
+appending  2
+2    done
+starting  3
+iteration  0
+iteration  1
+iteration  2
+iteration  3
+[0.8        0.85714286 0.85884989 0.86179159 0.87629807 0.88330703
+ 0.88816856 0.89200645 0.89273406 0.88762486]
+0.8697923355624984
+appending  3
+3    done
+starting  4
+iteration  0
+iteration  1
+iteration  2
+iteration  3
+[0.95427435 0.9651433  0.971011   0.9742071  0.97686382 0.97963949]
+0.9701898454808259
+appending  4
+4    done
