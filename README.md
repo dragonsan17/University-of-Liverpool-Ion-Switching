@@ -1,8 +1,8 @@
-University of Liverpool - Ion Switching
+# University of Liverpool - Ion Switching
 
-<font size="+10">Description</font>
+#### Research Prediction Competition, hosted on Kaggle
 
-Research Prediction Competition, hosted on Kaggle
+##### Handle - dragonsan17, World Rank 1445
 
 
 Many diseases, including cancer, are believed to have a contributing factor in common. Ion channels are pore-forming proteins present in animals and plants. They encode learning and memory, help fight infections, enable pain signals, and stimulate muscle contraction. If scientists could better study ion channels, which may be possible with the aid of machine learning, it could have a far-reaching impact.
